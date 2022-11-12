@@ -1,0 +1,793 @@
+1665640921986	geckodriver	INFO	Listening on 127.0.0.1:52237
+1665640925036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilemTRm1A"
+1665640925824	Marionette	INFO	Marionette enabled
+1665640925832	Marionette	INFO	Listening on port 52249
+Read port: 52249
+WebDriver BiDi listening on ws://127.0.0.1:52238
+1665640926157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilemTRm1A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52238/devtools/browser/1f146d2c-c2eb-4281-b7b2-5ea835d28702
+1665641156478	Marionette	INFO	Stopped listening on port 52249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileTjgIli"
+1665641040747	Marionette	INFO	Marionette enabled
+1665641040755	Marionette	INFO	Listening on port 52625
+Read port: 52625
+WebDriver BiDi listening on ws://127.0.0.1:52608
+1665641041072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileTjgIli\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52608/devtools/browser/6fd270f2-9b81-4be0-8480-382b5e1d7e0d
+1665641237194	Marionette	INFO	Stopped listening on port 52625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilefG7adU"
+1665641164179	Marionette	INFO	Marionette enabled
+1665641164191	Marionette	INFO	Listening on port 52953
+Read port: 52953
+WebDriver BiDi listening on ws://127.0.0.1:52940
+1665641164536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilefG7adU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52940/devtools/browser/4da8357e-1004-48b0-8e47-19cfc6c37cf2
+1665641654065	Marionette	INFO	Stopped listening on port 52953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilev09RTy"
+1665641399105	Marionette	INFO	Marionette enabled
+1665641399118	Marionette	INFO	Listening on port 53338
+Read port: 53338
+WebDriver BiDi listening on ws://127.0.0.1:53328
+1665641399577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilev09RTy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53328/devtools/browser/62cb6278-4d20-4177-a8a3-cd6e80c15318
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665658399742	Marionette	INFO	Stopped listening on port 53338
+e-debugging-port" "53523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileagKshw"
+1665641453229	Marionette	INFO	Marionette enabled
+1665641453237	Marionette	INFO	Listening on port 53533
+Read port: 53533
+WebDriver BiDi listening on ws://127.0.0.1:53523
+1665641453495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileagKshw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53523/devtools/browser/7f7c8bd9-c48f-4560-9691-bf48a650ef90
+1665641650378	Marionette	INFO	Stopped listening on port 53533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665641891860	geckodriver	INFO	Listening on 127.0.0.1:54117
+1665641894912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileqEdGUS"
+1665641895583	Marionette	INFO	Marionette enabled
+1665641895591	Marionette	INFO	Listening on port 54131
+Read port: 54131
+WebDriver BiDi listening on ws://127.0.0.1:54118
+1665641895858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileqEdGUS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54118/devtools/browser/5dc7591e-d16d-414b-ab28-30e23aa2881f
+1665642352453	Marionette	INFO	Stopped listening on port 54131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilehsDuMu"
+1665642002277	Marionette	INFO	Marionette enabled
+1665642002286	Marionette	INFO	Listening on port 54356
+Read port: 54356
+WebDriver BiDi listening on ws://127.0.0.1:54345
+1665642002525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilehsDuMu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54345/devtools/browser/476c432a-00fb-45cb-ae03-77e248d08d58
+1665642354453	geckodriver	INFO	Listening on 127.0.0.1:54923
+1665642357511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilewLVoHy"
+1665642358312	Marionette	INFO	Marionette enabled
+1665642358321	Marionette	INFO	Listening on port 54939
+Read port: 54939
+WebDriver BiDi listening on ws://127.0.0.1:54924
+1665642358589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilewLVoHy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54924/devtools/browser/69572a9c-fa12-4aeb-8c6b-a51b144dad42
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/proxy/v4/reviews/product?callback=productCallback6544880664708&product_id=6544880664708&version=v4&shop=mister-sandman.myshopify.com&product_ids%5B%5D=6544880664708&product_ids%5B%5D=6544880664708&product_ids%5B%5D=3833355468848, line 1: ReferenceError: productCallback6544880664708 is not defined
+1665642727591	geckodriver	INFO	Listening on 127.0.0.1:56116
+1665642730647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilebqrSDL"
+1665642731372	Marionette	INFO	Marionette enabled
+1665642731379	Marionette	INFO	Listening on port 56129
+Read port: 56129
+WebDriver BiDi listening on ws://127.0.0.1:56117
+1665642731646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilebqrSDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56117/devtools/browser/3b0abfa0-608e-4576-9cef-de3250488a9f
+1665646897399	Marionette	INFO	Stopped listening on port 56129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileIDSSKn"
+1665646316435	Marionette	INFO	Marionette enabled
+1665646316443	Marionette	INFO	Listening on port 61287
+Read port: 61287
+WebDriver BiDi listening on ws://127.0.0.1:61264
+1665646316722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileIDSSKn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61264/devtools/browser/7d78a958-8df0-4af9-b5da-44ee6c334cc6
+1665646899816	Marionette	INFO	Stopped listening on port 61287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile4hIwQL"
+1665646341237	Marionette	INFO	Marionette enabled
+1665646341246	Marionette	INFO	Listening on port 61461
+Read port: 61461
+WebDriver BiDi listening on ws://127.0.0.1:61448
+1665646341510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile4hIwQL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61448/devtools/browser/5b9fd0e2-0fb5-4e47-914c-aaca8a23d0f3
+1665646900993	Marionette	INFO	Stopped listening on port 61461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilejrr3Gk"
+1665646651187	Marionette	INFO	Marionette enabled
+1665646651200	Marionette	INFO	Listening on port 62335
+Read port: 62335
+WebDriver BiDi listening on ws://127.0.0.1:62313
+1665646651636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilejrr3Gk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62313/devtools/browser/01068b65-00b0-430a-8893-549ebdec4213
+1665646902809	Marionette	INFO	Stopped listening on port 62335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileE7YKCC"
+1665646713069	Marionette	INFO	Marionette enabled
+1665646713077	Marionette	INFO	Listening on port 62789
+Read port: 62789
+WebDriver BiDi listening on ws://127.0.0.1:62772
+1665646713346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileE7YKCC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62772/devtools/browser/7adb1a39-7ca7-4af0-85b4-ef4ce6a0646b
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665646905264	Marionette	INFO	Stopped listening on port 62789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYvM3JS"
+1665646866684	Marionette	INFO	Marionette enabled
+1665646866693	Marionette	INFO	Listening on port 63215
+Read port: 63215
+WebDriver BiDi listening on ws://127.0.0.1:63203
+1665646866988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYvM3JS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63203/devtools/browser/b47fba39-a9de-4876-b370-4aa3eb0b5ab9
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665646906540	Marionette	INFO	Stopped listening on port 63215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilez5Q1Q4"
+1665646904930	Marionette	INFO	Marionette enabled
+1665646904941	Marionette	INFO	Listening on port 63676
+Read port: 63676
+WebDriver BiDi listening on ws://127.0.0.1:63654
+1665646905417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilez5Q1Q4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63654/devtools/browser/b7da0c97-bae2-4d4c-872f-ee21d584cd52
+1665647436358	Marionette	INFO	Stopped listening on port 63676
+[Parent 30712, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 30712, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rrors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilez3gx2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64674/devtools/browser/209e3bb3-dcb7-4818-b63b-0ac5e981a1b3
+1665647437600	Marionette	INFO	Stopped listening on port 64688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilel02yDy"
+1665647298077	Marionette	INFO	Marionette enabled
+1665647298081	Marionette	INFO	Listening on port 64881
+Read port: 64881
+WebDriver BiDi listening on ws://127.0.0.1:64856
+1665647298384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilel02yDy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64856/devtools/browser/a10b5228-6315-4086-a97e-a2d47b83f44a
+1665647432873	Marionette	INFO	Stopped listening on port 64881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665647472884	geckodriver	INFO	Listening on 127.0.0.1:65516
+1665647475961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileWbbTTc"
+1665647476373	Marionette	INFO	Marionette enabled
+1665647476378	Marionette	INFO	Listening on port 49152
+Read port: 49152
+WebDriver BiDi listening on ws://127.0.0.1:65517
+1665647476535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileWbbTTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65517/devtools/browser/9530314e-17bf-4bc3-9021-0881fdc15611
+1665647628559	Marionette	INFO	Stopped listening on port 49152
+5647509436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYx8aNT"
+1665647509734	Marionette	INFO	Marionette enabled
+1665647509738	Marionette	INFO	Listening on port 49517
+Read port: 49517
+WebDriver BiDi listening on ws://127.0.0.1:49505
+1665647509858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYx8aNT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49505/devtools/browser/994daa4f-3cf6-4477-9561-9e950c76f096
+1665647629974	Marionette	INFO	Stopped listening on port 49517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile2QFf3w"
+1665647572248	Marionette	INFO	Marionette enabled
+1665647572252	Marionette	INFO	Listening on port 49955
+Read port: 49955
+WebDriver BiDi listening on ws://127.0.0.1:49939
+1665647572369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile2QFf3w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49939/devtools/browser/d16feab6-323e-465d-8771-14528bc9e579
+1665647631200	Marionette	INFO	Stopped listening on port 49955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilerndHZr"
+1665647605194	Marionette	INFO	Marionette enabled
+1665647605200	Marionette	INFO	Listening on port 50565
+Read port: 50565
+WebDriver BiDi listening on ws://127.0.0.1:50552
+1665647605328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilerndHZr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50552/devtools/browser/8ec63dfe-025c-488a-a08d-694a45adf30a
+1665647634526	Marionette	INFO	Stopped listening on port 50565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665648241350	geckodriver	INFO	Listening on 127.0.0.1:52286
+1665648244417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileEhozas"
+1665648244899	Marionette	INFO	Marionette enabled
+1665648244902	Marionette	INFO	Listening on port 52303
+Read port: 52303
+WebDriver BiDi listening on ws://127.0.0.1:52287
+1665648245025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileEhozas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52287/devtools/browser/7c9e2c36-93c1-439f-abf3-e7e7e5da183d
+1665648327046	Marionette	INFO	Stopped listening on port 52303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileMddtQo"
+1665648298811	Marionette	INFO	Marionette enabled
+1665648298814	Marionette	INFO	Listening on port 52471
+Read port: 52471
+WebDriver BiDi listening on ws://127.0.0.1:52459
+1665648298924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileMddtQo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52459/devtools/browser/4c151d79-7b23-462e-928d-bb65588f4689
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665648328628	Marionette	INFO	Stopped listening on port 52471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665648409555	geckodriver	INFO	Listening on 127.0.0.1:52792
+1665648412626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile1LfBGL"
+1665648413063	Marionette	INFO	Marionette enabled
+1665648413067	Marionette	INFO	Listening on port 52805
+WebDriver BiDi listening on ws://127.0.0.1:52793
+Read port: 52805
+1665648413286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile1LfBGL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52793/devtools/browser/35213484-df55-411a-9391-f355dcc2102d
+1665648885614	Marionette	INFO	Stopped listening on port 52805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiletXHZ08"
+1665648733047	Marionette	INFO	Marionette enabled
+1665648733052	Marionette	INFO	Listening on port 53510
+Read port: 53510
+WebDriver BiDi listening on ws://127.0.0.1:53499
+1665648733207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiletXHZ08\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53499/devtools/browser/cca354e4-c20f-4545-aefb-b685887e91a0
+1665648884229	Marionette	INFO	Stopped listening on port 53510
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileTxTdLj"
+1665648818885	Marionette	INFO	Marionette enabled
+1665648818888	Marionette	INFO	Listening on port 53929
+Read port: 53929
+WebDriver BiDi listening on ws://127.0.0.1:53915
+1665648819012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileTxTdLj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53915/devtools/browser/798cdc0b-3ea6-46fe-9c8a-bca69f8d1dd7
+1665648893955	Marionette	INFO	Stopped listening on port 53929
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiles0gaVU"
+1665648853206	Marionette	INFO	Marionette enabled
+1665648853210	Marionette	INFO	Listening on port 54266
+Read port: 54266
+WebDriver BiDi listening on ws://127.0.0.1:54253
+1665648853362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiles0gaVU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54253/devtools/browser/e07e80be-3d2b-48db-92b6-634796efaf33
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665648890254	Marionette	INFO	Stopped listening on port 54266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665649055279	geckodriver	INFO	Listening on 127.0.0.1:54842
+1665649058359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileWPnfuR"
+1665649058750	Marionette	INFO	Marionette enabled
+1665649058754	Marionette	INFO	Listening on port 54856
+Read port: 54856
+WebDriver BiDi listening on ws://127.0.0.1:54843
+1665649058881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileWPnfuR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54843/devtools/browser/56ecf7b7-4af6-4d6e-9918-1b29cf6203ce
+1665649103555	Marionette	INFO	Stopped listening on port 54856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665649208683	geckodriver	INFO	Listening on 127.0.0.1:55381
+1665649211733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekOmkUS"
+1665649212153	Marionette	INFO	Marionette enabled
+1665649212156	Marionette	INFO	Listening on port 55395
+Read port: 55395
+WebDriver BiDi listening on ws://127.0.0.1:55382
+1665649212267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekOmkUS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55382/devtools/browser/b47b6437-1e9c-4a44-9448-5f542529f8d4
+1665649455484	Marionette	INFO	Stopped listening on port 55395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilejpWjId"
+1665649362336	Marionette	INFO	Marionette enabled
+1665649362339	Marionette	INFO	Listening on port 55766
+WebDriver BiDi listening on ws://127.0.0.1:55754
+Read port: 55766
+1665649362531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilejpWjId\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55754/devtools/browser/9a75fd27-fe61-416c-b812-0078aabd36eb
+1665649456242	Marionette	INFO	Stopped listening on port 55766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile1dMiLM"
+1665649426330	Marionette	INFO	Marionette enabled
+1665649426333	Marionette	INFO	Listening on port 56195
+Read port: 56195
+WebDriver BiDi listening on ws://127.0.0.1:56181
+1665649426453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile1dMiLM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56181/devtools/browser/16872cad-0ee8-4208-b216-6755ddf7df74
+1665649458274	Marionette	INFO	Stopped listening on port 56195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665652718809	geckodriver	INFO	Listening on 127.0.0.1:60333
+1665652721912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileHchDYt"
+1665652722988	Marionette	INFO	Marionette enabled
+1665652722998	Marionette	INFO	Listening on port 60346
+Read port: 60346
+WebDriver BiDi listening on ws://127.0.0.1:60334
+1665652723242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileHchDYt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60334/devtools/browser/e873e3cc-017b-4916-8896-ad01db56ba28
+1665653416010	Marionette	INFO	Stopped listening on port 60346
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilezEDiaJ"
+1665652808256	Marionette	INFO	Marionette enabled
+1665652808260	Marionette	INFO	Listening on port 60727
+Read port: 60727
+WebDriver BiDi listening on ws://127.0.0.1:60718
+1665652808369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilezEDiaJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60718/devtools/browser/391b8a60-246f-48a0-9ec3-b2a5b169df0e
+1665653417411	Marionette	INFO	Stopped listening on port 60727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileNDWI4O"
+1665653358117	Marionette	INFO	Marionette enabled
+1665653358122	Marionette	INFO	Listening on port 61155
+Read port: 61155
+WebDriver BiDi listening on ws://127.0.0.1:61146
+1665653358246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileNDWI4O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61146/devtools/browser/c402dfbe-f93c-4ddc-8e30-8bc618399a3d
+1665653418770	Marionette	INFO	Stopped listening on port 61155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665654072922	geckodriver	INFO	Listening on 127.0.0.1:61687
+1665654075994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileSrRpBj"
+1665654076377	Marionette	INFO	Marionette enabled
+1665654076380	Marionette	INFO	Listening on port 61697
+Read port: 61697
+WebDriver BiDi listening on ws://127.0.0.1:61688
+1665654076508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileSrRpBj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61688/devtools/browser/ebbaab8f-ba85-4d1f-bb13-29c808bb076e
+1665654302621	Marionette	INFO	Stopped listening on port 61697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilevqsWNv"
+1665654180359	Marionette	INFO	Marionette enabled
+1665654180364	Marionette	INFO	Listening on port 62091
+Read port: 62091
+WebDriver BiDi listening on ws://127.0.0.1:62081
+1665654180520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilevqsWNv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62081/devtools/browser/cbe5ffa5-b377-43c1-b41f-7ea9f4ed93bd
+JavaScript error: https://cdn.shopify.com/s/files/1/1563/5705/t/126/assets/booster_eu_cookie_15635705.js?v=1604333201&shop=mister-sandman.myshopify.com, line 1: TypeError: t.getElementById(...) is null
+1665654309827	Marionette	INFO	Stopped listening on port 62091
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekmn0IV"
+1665654212888	Marionette	INFO	Marionette enabled
+1665654212892	Marionette	INFO	Listening on port 62287
+Read port: 62287
+WebDriver BiDi listening on ws://127.0.0.1:62273
+1665654213013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekmn0IV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62273/devtools/browser/18e2e07c-6fb5-48aa-a485-d8b6e8768429
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+1665654304776	Marionette	INFO	Stopped listening on port 62287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilemD85j5"
+1665654274230	Marionette	INFO	Marionette enabled
+1665654274233	Marionette	INFO	Listening on port 62582
+WebDriver BiDi listening on ws://127.0.0.1:62572
+Read port: 62582
+1665654274442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilemD85j5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62572/devtools/browser/057a50ec-27fa-4bba-b31a-da01f885b499
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665654306435	Marionette	INFO	Stopped listening on port 62582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665654547062	geckodriver	INFO	Listening on 127.0.0.1:63353
+1665654550132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiletHHv5G"
+1665654550500	Marionette	INFO	Marionette enabled
+1665654550504	Marionette	INFO	Listening on port 63367
+Read port: 63367
+WebDriver BiDi listening on ws://127.0.0.1:63354
+1665654550635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiletHHv5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63354/devtools/browser/a9745876-599c-4033-abc2-7da583e0ae54
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665656088000	Marionette	INFO	Stopped listening on port 63367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileQPjG9s"
+1665654585581	Marionette	INFO	Marionette enabled
+1665654585586	Marionette	INFO	Listening on port 63685
+Read port: 63685
+WebDriver BiDi listening on ws://127.0.0.1:63670
+1665654585711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileQPjG9s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63670/devtools/browser/686275e6-3805-42b3-b33c-2e285d82d6f8
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+1665656089637	Marionette	INFO	Stopped listening on port 63685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile8M9ToW"
+1665655991795	Marionette	INFO	Marionette enabled
+1665655991800	Marionette	INFO	Listening on port 49732
+Read port: 49732
+WebDriver BiDi listening on ws://127.0.0.1:49722
+1665655991927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile8M9ToW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49722/devtools/browser/fe1a527b-8e3f-4c6b-88a2-ae71f77376cd
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665656090871	Marionette	INFO	Stopped listening on port 49732
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileyZoyPI"
+1665656038631	Marionette	INFO	Marionette enabled
+1665656038638	Marionette	INFO	Listening on port 50255
+Read port: 50255
+WebDriver BiDi listening on ws://127.0.0.1:50236
+1665656038835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileyZoyPI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50236/devtools/browser/9bad2ebe-a0c2-463e-bb3a-b6d6d9f4f44f
+1665656092322	Marionette	INFO	Stopped listening on port 50255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665656097786	geckodriver	INFO	Listening on 127.0.0.1:50711
+1665656100847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile5Pb75S"
+1665656101243	Marionette	INFO	Marionette enabled
+1665656101248	Marionette	INFO	Listening on port 50722
+Read port: 50722
+WebDriver BiDi listening on ws://127.0.0.1:50712
+1665656101415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile5Pb75S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50712/devtools/browser/d5a2b138-9f94-4eba-a672-f86393b9cae2
+1665661153101	Marionette	INFO	Stopped listening on port 50722
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+
+Read port: 52465
+1665657297642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileE0kAfm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52447/devtools/browser/9e7f9a52-5ca5-45dc-af9c-e98699479cec
+1665658402193	Marionette	INFO	Stopped listening on port 52465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilePjtb13"
+1665657339426	Marionette	INFO	Marionette enabled
+1665657339430	Marionette	INFO	Listening on port 52733
+Read port: 52733
+WebDriver BiDi listening on ws://127.0.0.1:52706
+1665657339571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilePjtb13\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52706/devtools/browser/bc9e16b1-db3a-49a5-b165-cf212a2c053d
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/s/files/1/1563/5705/t/126/assets/booster_eu_cookie_15635705.js?v=1604333201&shop=mister-sandman.myshopify.com, line 1: TypeError: t.getElementById(...) is null
+JavaScript error: https://productreviews.shopifycdn.com/proxy/v4/reviews/product?callback=productCallback3833355468848&product_id=3833355468848&version=v4&shop=mister-sandman.myshopify.com&product_ids%5B%5D=3833355468848, line 1: ReferenceError: productCallback3833355468848 is not defined
+1665658403441	Marionette	INFO	Stopped listening on port 52733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665658648518	geckodriver	INFO	Listening on 127.0.0.1:55424
+1665658651572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiles96p6o"
+1665658651940	Marionette	INFO	Marionette enabled
+1665658651944	Marionette	INFO	Listening on port 55436
+Read port: 55436
+WebDriver BiDi listening on ws://127.0.0.1:55425
+1665658652067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofiles96p6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55425/devtools/browser/82935b79-9b6b-4e4b-85d0-513ca22dbc5d
+1665661153171	Marionette	INFO	Stopped listening on port 55436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileMepLqu"
+1665660014355	Marionette	INFO	Marionette enabled
+1665660014360	Marionette	INFO	Listening on port 56695
+Read port: 56695
+WebDriver BiDi listening on ws://127.0.0.1:56685
+1665660014512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileMepLqu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56685/devtools/browser/f4e08f05-75a7-48dc-9cde-29eda0c0e1bb
+1665661153336	Marionette	INFO	Stopped listening on port 56695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofile5t1X4E"
+1665660160495	Marionette	INFO	Marionette enabled
+1665660160499	Marionette	INFO	Listening on port 57133
+Read port: 57133
+WebDriver BiDi listening on ws://127.0.0.1:57122
+1665660160637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofile5t1X4E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57122/devtools/browser/015307af-97e6-44c6-812a-1808cce73553
+1665661153258	Marionette	INFO	Stopped listening on port 57133
+[Parent 24216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te-debugging-port" "57296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilexGXkMh"
+1665660218449	Marionette	INFO	Marionette enabled
+1665660218454	Marionette	INFO	Listening on port 57306
+WebDriver BiDi listening on ws://127.0.0.1:57296
+Read port: 57306
+1665660218671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilexGXkMh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57296/devtools/browser/d1681795-155a-4e32-9dcb-23195650fcc1
+1665661152969	Marionette	INFO	Stopped listening on port 57306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileRDPUUm"
+1665660273570	Marionette	INFO	Marionette enabled
+1665660273575	Marionette	INFO	Listening on port 57674
+Read port: 57674
+WebDriver BiDi listening on ws://127.0.0.1:57650
+1665660273692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileRDPUUm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57650/devtools/browser/042cf98a-babc-4e05-88b8-ebbcc80a31ca
+1665661153231	Marionette	INFO	Stopped listening on port 57674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileWUhWv0"
+1665660368097	Marionette	INFO	Marionette enabled
+1665660368101	Marionette	INFO	Listening on port 57925
+Read port: 57925
+WebDriver BiDi listening on ws://127.0.0.1:57902
+1665660368232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileWUhWv0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57902/devtools/browser/4e90779b-afcb-44d7-a385-7c737ab11780
+1665661146880	Marionette	INFO	Stopped listening on port 57925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileUflXea"
+1665660665559	Marionette	INFO	Marionette enabled
+1665660665563	Marionette	INFO	Listening on port 58508
+Read port: 58508
+WebDriver BiDi listening on ws://127.0.0.1:58496
+1665660665688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileUflXea\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58496/devtools/browser/9e760e9b-86c9-413e-9418-f3a919a62c0e
+1665661152473	Marionette	INFO	Stopped listening on port 58508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileIuxYQj"
+1665660931198	Marionette	INFO	Marionette enabled
+1665660931202	Marionette	INFO	Listening on port 59018
+Read port: 59018
+WebDriver BiDi listening on ws://127.0.0.1:59008
+1665660931357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileIuxYQj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59008/devtools/browser/df355490-a13f-4b46-8711-b24a6f2801c9
+1665661152735	Marionette	INFO	Stopped listening on port 59018
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYgcHCa"
+1665660973125	Marionette	INFO	Marionette enabled
+1665660973129	Marionette	INFO	Listening on port 59390
+WebDriver BiDi listening on ws://127.0.0.1:59379
+Read port: 59390
+1665660973340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileYgcHCa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59379/devtools/browser/e80bc361-41ba-4b50-9b96-8999b2706a51
+1665661152554	Marionette	INFO	Stopped listening on port 59390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileJYbncI"
+1665661035869	Marionette	INFO	Marionette enabled
+1665661035874	Marionette	INFO	Listening on port 59887
+Read port: 59887
+WebDriver BiDi listening on ws://127.0.0.1:59861
+1665661036016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileJYbncI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59861/devtools/browser/297cc687-2973-429f-a67b-d894c596112e
+1665661152080	Marionette	INFO	Stopped listening on port 59887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileK4utQL"
+1665661127807	Marionette	INFO	Marionette enabled
+1665661127810	Marionette	INFO	Listening on port 60262
+WebDriver BiDi listening on ws://127.0.0.1:60252
+Read port: 60262
+1665661128019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileK4utQL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60252/devtools/browser/5efa5810-fdc5-4607-9872-55917c8c7f5b
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665661151628	Marionette	INFO	Stopped listening on port 60262
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665663941846	geckodriver	INFO	Listening on 127.0.0.1:62365
+1665663944913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileGVexW3"
+1665663945337	Marionette	INFO	Marionette enabled
+1665663945342	Marionette	INFO	Listening on port 62376
+Read port: 62376
+WebDriver BiDi listening on ws://127.0.0.1:62366
+1665663945465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileGVexW3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62366/devtools/browser/41becce1-9678-4943-91a3-61e13a4bb529
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: uncaught exception: Error: load error: https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js
+JavaScript error: https://cdn.shopify.com/s/files/1/1563/5705/t/126/assets/booster_eu_cookie_15635705.js?v=1604333201&shop=mister-sandman.myshopify.com, line 1: uncaught exception: Error: load error: https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js
+1665664234484	Marionette	INFO	Stopped listening on port 62376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665664246312	geckodriver	INFO	Listening on 127.0.0.1:62935
+1665664249410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilev1Iar5"
+1665664249755	Marionette	INFO	Marionette enabled
+1665664249759	Marionette	INFO	Listening on port 62948
+Read port: 62948
+WebDriver BiDi listening on ws://127.0.0.1:62936
+1665664249904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilev1Iar5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62936/devtools/browser/f6fd8bf3-bc75-4e14-8419-b84f81856d4d
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665664678866	Marionette	INFO	Stopped listening on port 62948
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileZSt4bf"
+1665664561145	Marionette	INFO	Marionette enabled
+1665664561150	Marionette	INFO	Listening on port 63586
+Read port: 63586
+WebDriver BiDi listening on ws://127.0.0.1:63553
+1665664561286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileZSt4bf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63553/devtools/browser/29acaa1b-d5c7-4f4c-8d28-2a7e946d9487
+1665664680325	Marionette	INFO	Stopped listening on port 63586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileVH9ouJ"
+1665664627589	Marionette	INFO	Marionette enabled
+1665664627595	Marionette	INFO	Listening on port 64017
+Read port: 64017
+WebDriver BiDi listening on ws://127.0.0.1:64004
+1665664627723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileVH9ouJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64004/devtools/browser/405ba58e-f566-4f05-9538-6cfacfa66610
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665664681689	Marionette	INFO	Stopped listening on port 64017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665668618272	geckodriver	INFO	Listening on 127.0.0.1:49513
+1665668621352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilefXiy9a"
+1665668621758	Marionette	INFO	Marionette enabled
+1665668621764	Marionette	INFO	Listening on port 49526
+Read port: 49526
+WebDriver BiDi listening on ws://127.0.0.1:49514
+1665668622114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilefXiy9a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49514/devtools/browser/ddc6b7b6-fc49-4677-8d31-08dac670981e
+1665669267295	Marionette	INFO	Stopped listening on port 49526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekc9nGs"
+1665668744642	Marionette	INFO	Marionette enabled
+1665668744645	Marionette	INFO	Listening on port 49784
+WebDriver BiDi listening on ws://127.0.0.1:49774
+Read port: 49784
+1665668744829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekc9nGs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49774/devtools/browser/53f71a78-60d9-43dc-bfd2-f45910073e5e
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/proxy/v4/reviews/product?callback=productCallback3833355468848&product_id=3833355468848&version=v4&shop=mister-sandman.myshopify.com&product_ids%5B%5D=3833355468848&product_ids%5B%5D=786593153072&product_ids%5B%5D=785575378992&product_ids%5B%5D=1374175494192&product_ids%5B%5D=797328015408&product_ids%5B%5D=712155103280, line 1: ReferenceError: productCallback3833355468848 is not defined
+JavaScript error: https://productreviews.shopifycdn.com/proxy/v4/reviews/badges?callback=badgesCallback38333554688487865931530727855753789921374175494192797328015408712155103280&shop=mister-sandman.myshopify.com&product_ids%5B%5D=3833355468848&product_ids%5B%5D=786593153072&product_ids%5B%5D=785575378992&product_ids%5B%5D=1374175494192&product_ids%5B%5D=797328015408&product_ids%5B%5D=712155103280, line 1: ReferenceError: badgesCallback38333554688487865931530727855753789921374175494192797328015408712155103280 is not defined
+1665669268501	Marionette	INFO	Stopped listening on port 49784
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilebUx3FU"
+1665668969740	Marionette	INFO	Marionette enabled
+1665668969744	Marionette	INFO	Listening on port 50358
+Read port: 50358
+WebDriver BiDi listening on ws://127.0.0.1:50348
+1665668969873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilebUx3FU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50348/devtools/browser/b3e483ff-182f-421f-b97d-d2a0f9524125
+1665669269925	Marionette	INFO	Stopped listening on port 50358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileV89nTp"
+1665669033036	Marionette	INFO	Marionette enabled
+1665669033040	Marionette	INFO	Listening on port 50651
+Read port: 50651
+WebDriver BiDi listening on ws://127.0.0.1:50638
+1665669033149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileV89nTp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50638/devtools/browser/71f448df-27c7-435d-bab1-f8a1b570deb1
+1665669271079	Marionette	INFO	Stopped listening on port 50651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekOfcHI"
+1665669101432	Marionette	INFO	Marionette enabled
+1665669101436	Marionette	INFO	Listening on port 50886
+WebDriver BiDi listening on ws://127.0.0.1:50875
+Read port: 50886
+1665669101657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofilekOfcHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50875/devtools/browser/57f54fab-be15-4cfb-b56d-3c48a3bf8b2b
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665669272669	Marionette	INFO	Stopped listening on port 50886
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665669309301	geckodriver	INFO	Listening on 127.0.0.1:51263
+1665669312363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileaioE7g"
+1665669312785	Marionette	INFO	Marionette enabled
+1665669312791	Marionette	INFO	Listening on port 51275
+Read port: 51275
+WebDriver BiDi listening on ws://127.0.0.1:51264
+1665669312985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileaioE7g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51264/devtools/browser/14fa6a64-5aed-4b61-8e47-50118f5fec38
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665705119176	Marionette	INFO	Stopped listening on port 51275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileue5PGc"
+1665670459165	Marionette	INFO	Marionette enabled
+1665670459169	Marionette	INFO	Listening on port 53796
+Read port: 53796
+WebDriver BiDi listening on ws://127.0.0.1:53786
+1665670459301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shara\\AppData\\Local\\Temp\\rust_mozprofileue5PGc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53786/devtools/browser/4994ff54-e74d-4ab5-839b-c5c0d97eff5e
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://cdn.shopify.com/s/files/1/1563/5705/t/126/assets/booster_eu_cookie_15635705.js?v=1604333201&shop=mister-sandman.myshopify.com, line 1: TypeError: t.getElementById(...) is null
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/s/files/1/1563/5705/t/126/assets/booster_eu_cookie_15635705.js?v=1604333201&shop=mister-sandman.myshopify.com, line 1: TypeError: t.getElementById(...) is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/proxy/v4/reviews/product?callback=productCallback3833355468848&product_id=3833355468848&version=v4&shop=mister-sandman.myshopify.com&product_ids%5B%5D=3833355468848, line 1: ReferenceError: productCallback3833355468848 is not defined
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.spb-872.en.js, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js?shop=mister-sandman.myshopify.com, line 1: Error: Error completing request. A network failure may have prevented the request from completing. Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+JavaScript error: https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js, line 1: TypeError: this.$ is not a function
+1665680251908	Marionette	INFO	Stopped listening on port 53796
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
